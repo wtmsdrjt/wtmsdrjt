@@ -17,6 +17,3 @@ message: 'hi, Im a newbie'
 }
 resolve(profile)
 ```
-
-
-<div class="tenor-gif-embed" data-postid="23720476" data-share-method="host" data-aspect-ratio="0.5625" data-width="100%"><a href="https://tenor.com/view/hu-tao-genshin-impact-zhongli-maid-hu-tao-gif-23720476">Hu Tao Genshin Impact GIF</a>from <a href="https://tenor.com/search/hu+tao-gifs">Hu Tao GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
