@@ -1,5 +1,5 @@
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=Watim%20Sudrajat&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20👋&image=https://avatars.githubusercontent.com/u/78160909?s=400&u=acb8f5ca5c6f9a886400758a7e2eec42ca4fe91a&v=4&backgroundColor=%23ecf0f1&instagram=cigsafterlose_&github=wtmsdrjt&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=Watim%20Sudrajat&description=Hi,%20i%27m%20a%20just%20newbie%20programer,%20nice%20to%20meet%20you%20👋&image=https://avatars.githubusercontent.com/u/140778598?v=4&backgroundColor=%23ecf0f1&instagram=cigsafterlose_&github=wtmsdrjt&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <p align="center"> 
   Visitor Count<br>
