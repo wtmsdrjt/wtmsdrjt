@@ -10,10 +10,9 @@
 ```js
 let profile = {
 newbie_programmer: true,
-kode: 4YU,
-nama: 'wtmsdrjt',
-gender: 'male',
-message: 'hi, Im a newbie'
+age: '16',
+name: 'wtmsdrjt',
+gender: 'male'
 }
 resolve(profile)
 ```
