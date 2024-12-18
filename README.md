@@ -2,7 +2,7 @@
 src="https://cardivo.vercel.app/api?name=Watim%20Sudrajat&description=Hi,%20i%27m%20a%20just%20newbie%20programer,%20nice%20to%20meet%20you%20👋&image=https://avatars.githubusercontent.com/u/140778598?v=4&backgroundColor=%23ecf0f1&instagram=cigsafterlose_&github=wtmsdrjt&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <p align="center"> 
-  Visitor Count<br>
+  Visitor Count 👀<br>
   <img src="https://profile-counter.glitch.me/wtmsdrjt/count.svg" />
 </p>
 
