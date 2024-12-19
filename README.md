@@ -25,11 +25,3 @@ const watim = () => {
 }
 ```
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
- ### Spotify Playing
-
-[<img src="https://spotify-rtwone.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/playlist/4uxGL85jIlA4vpBqcFQ4GN?si=BKqA5rokSoWCQC_8FNzuZw&pi=a-BHTD9b0cT--Q)
-
-### Github Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=wtmsdrjt&repo=atlantic-pedia&show_owner=true&theme=radical)](https://github.com/wtmsdrjt/atlantic-pedia)
