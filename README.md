@@ -1,4 +1,4 @@
-## Helloo Guys <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+## Hello Guys <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 Hi, I'm Watim Sudrajat, You Can call me as Ating.
 <br>
 <h1 align="center">왓임 〜<br>Ating here!</h1>
