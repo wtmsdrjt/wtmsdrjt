@@ -18,13 +18,7 @@ const watim = () => {
   }
 }
 ```
-
- ### Stastik
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-![github stats](https://github-readme-stats.vercel.app/api?username=wtmsdrjt&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtmsdrjt&show_icons=true&layout=compact&theme=radical)
-
 
  ### Spotify Playing
 
