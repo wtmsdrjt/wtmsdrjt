@@ -16,7 +16,7 @@ const watim = () => {
   return {
     pronouns: "He" | "Him",
     country: "Indonesia",
-    bio: "No looking back."
+    bio: "I miss you so much, ayu."
   }
 }
 ```
